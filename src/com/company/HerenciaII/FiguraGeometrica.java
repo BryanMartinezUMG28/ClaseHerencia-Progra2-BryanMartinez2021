@@ -11,6 +11,10 @@ public abstract class FiguraGeometrica {
         return this.forma;
     }
 
+
+    //Agregue radio para poder calcular el circulo
+
     abstract double calcularArea();
     abstract double calcularPerimetro();
+
 }
