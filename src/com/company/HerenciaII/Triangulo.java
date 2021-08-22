@@ -2,7 +2,7 @@ package com.company.HerenciaII;
 
 public class Triangulo extends FiguraGeometricaPlana {
 
-        //Al igual que el circulo extenienda, y agregar
+        //Al igual que el circulo extenienda, y agregar para obtener perimetro
     private double calcularPerimetro;
 
     public Triangulo(){

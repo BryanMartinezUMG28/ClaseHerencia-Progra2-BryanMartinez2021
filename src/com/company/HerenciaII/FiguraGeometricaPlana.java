@@ -13,7 +13,6 @@ public abstract class FiguraGeometricaPlana extends FiguraGeometrica {
     }
 
     //Agregue calcularRadio para poder realizar mejor el circulo
-    @Override
     public double calcularRadio(){
         return 0;
     }
